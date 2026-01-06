@@ -73,7 +73,7 @@ Interpreted trends and generated business recommendations
 
 **📈 Dashboard Preview**
 
-![Tableau Dashboard] (https://github.com/SaptamiSD/Tableau_Project/blob/main/Tableau%20Dashboard.png)
+<img width="1647" height="816" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/bda91aa4-6d46-4cc1-bd41-2312744f49e9" />
 
 **🔍 Key Insights**
 
