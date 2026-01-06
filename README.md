@@ -148,7 +148,7 @@ Interpreted trends and generated business recommendations
 
 📈 Dashboard Preview
 
-
+https://github.com/SaptamiSD/Tableau_Project/blob/main/Tableau%20Dashboard.png
 
 🔍 Key Insights
 
